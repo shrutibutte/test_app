@@ -1,0 +1,58 @@
+#accordion{
+    color: rgb(117, 121, 121);
+}
+#questions{
+    color: rgb(117, 121, 121);
+    text-align: left;
+    font-size: 20px;
+    list-style-type: "number";
+}
+
+
+
+.form-check-label{
+    text-align: left;
+}
+.accordion-collapse {
+    color:black;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+
+  .accordion-button{
+    background-color: #88cbf5;
+    color:rgb(29, 28, 28);
+    border-radius: 5px;
+    /* padding: 10px; */
+
+  }
+
+  #lii{
+    list-style-type: "number";
+    text-align: "left",
+   /* list-style: none; */
+    /* padding: 10px; */
+    /* i want this question start from intial line */
+   
+    
+  }
+
+  ol{
+    list-style-type: number;
+    text-align: left;
+  }
+
+
+  .heading2{
+    color:black;
+    background-color: #88cbf5;
+    border-radius: 5px;
+    padding: 10px;
+    
+  }
+
+
+
+  
