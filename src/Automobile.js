@@ -59,7 +59,7 @@ const Automation = () => {
     <div>
       
       <h2 className="heading2" style={{ paddingBottom: "30px" }}>
-        Stpes for Driverless automobiles- Self Driving
+        Stpes for Driverless automobiles- Self Driving my app my rules 
       </h2>
       <ol>
         {steps.slice(0, showMore ? steps.length : 3).map((step, index) => (
